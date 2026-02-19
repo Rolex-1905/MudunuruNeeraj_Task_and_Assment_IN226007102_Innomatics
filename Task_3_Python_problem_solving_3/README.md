@@ -1,5 +1,5 @@
 # Agentic AI Internship – February 2026  
-## Logic Building Task – 2  
+## Logic Building Task – 3
 
 This notebook contains solutions for all 6 assigned logic-building tasks, implemented using clean, well-structured, and properly commented Python code.
 
